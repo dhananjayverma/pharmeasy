@@ -8,17 +8,12 @@
 
 Pharmeasy vercel link : https://pharmeasy-rho.vercel.app/
 
-## Contributors (2 Member)
 
-### Akshay Rajput:- https://github.com/actuallyakshay
-##### Role and Responsibilities (Akshay Rajput)
+##### Role and Responsibilities
 - handled whole backend with all the functionalities filter,sorting,searching, relationships in cart, trash items, role based access control system with Authentication (login/signup with jwt and bcrypt) and many more
 - Pages in frontend (login/Signup, Medicine, healthcare, Cart) with all the functionalities
 - Whole Admin Control Panel
 - Created own npm package and used it in this project
-
-### Manoj Rathod:- https://github.com/ManojRathod571
-##### Role and Responsibilities (Manoj Rathod)
 - Landing page along with seaching functionality
 - Navbar
 - Footer
@@ -96,14 +91,9 @@ Pharmeasy vercel link : https://pharmeasy-rho.vercel.app/
 
 - cyclic.sh
 
-## Contact
 
-If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Akshay_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rajput-422794220/)
-[![Github](https://img.shields.io/badge/Akshay_Rajput-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/actuallyakshay)
-
-© 2022 Akshay Rajput
+© 2022 Dhananjay  verma 
 
 ## Show your support
 
